@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Science"
+title                    : "Data Science Engineer"
 title_separator          : "-"
 name                     : &name "Tran Xuan Tu"
 description              : &description "personal description"

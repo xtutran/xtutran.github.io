@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Science Engineer"
+title                    : "Data Science"
 title_separator          : "-"
 name                     : &name "Tran Xuan Tu"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Tran Xuan Tu"
   avatar           : "profile.png"
-  bio              : "Data Science Engineer / Hadoop Professional"
+  bio              : "Data Science Engineer"
   location         : "Singapore"
   employer         : "AXA Data Innovation Lab"
   googlescholar    : #"http://yourfullgooglescholarurl.com"

@@ -19,22 +19,25 @@ redirect_from:
   * Industrialize production workflow and data pipelines on E2E environment
 
 * Aug 2015 - Jul 2016: <b>Research Engineer</b> - <i>Singapore University of Technology and Design (SUTD)</i>
-  * Worked as a Research Assistant under supervision of Ass. Prof., Zhang Meihui on topic of massive data integration and analytic.
-  * Mined logs data of Power Plant system to detect anomaly operations and predict failures: descriptive statistic, association rules mining
+  * Analyzing and detecting anomaly event in log of  Power Plant system: association rules mining, multivariate analysis
+  * Massive data integration from multiple data sources: semantic schema matching, knowledge base enhancement (freebase, dbpedia)
   
 * May 2013 - Aug 2015: <b>Data Engineer</b> - <i>FTP Software - DIRECTV - AT&T</i>
-  * Involved researching and developing a Cloud Recommendation System of DirecTV - Los Angeles, US 
-  * Mainly focused on building a recommendation engine based-on content-based filtering and collaborative filtering algorithms
-  * Hand-on developed and optimized large-scale ETL jobs based on Hadoop ecosystem: MapReduce, Apache Spark, HBase, Hive, Pig, Oozie Workflow
+  * <b>Cloud Recommendation Production</b>, <i>onsite in USA</i>
+    * Architected BigData web services of Cloud Recommendation engine that provided a real-time query API based on Spring MVC, HDFS and HBase
+    * Implemented Data quality assessment piplines: univariate/bivariate profiling, monthly data comparision using Zoomdata, Python viz (matplotlib, seaborn, plotly)
+
+  * <b>Cloud Recommendation POC</b>, <i>offshore in Vietnam</i>
+    * Experimented feasible recommendation algorithms which will be deployed on AWS and Hadoop ecosytem: content-based filtering and collaborative filtering
+    * Data preparation: developed and optimized large-scale ETLs, mostly are Java MapReduce and Hive jobs
 
 * Sep 2012 - March 2013: <b>Research Assistant Internship</b> - <i>Singapore Management University</i>
   * Worked under supervision of Ass. Prof. Jing Jiang on unsupervised information extraction topic
   * Studied and implemented some unsupervised machine learning algorithms for text clustering: Gibb sampling (MCMC), Naive Bayesian mixture model, Gaussian mixture model
 
-* Dec 2009 - Sep 2012: <b>Teaching and Research Assistant</b> - <i>Vietnam National University</i>
-  * Studied and practised with Data Mining and Natural Language Processing techniques
-  * Participated annual student research conference, from 2009 to 2012
-  * Involved tutoring students during office hours and lab sections who needed to grade weekly lab reports, grade exams and grade programming assignments, from 2011 to 2012 
+* Dec 2009 - Sep 2012: <b>Research Teaching Assistant</b> - <i>Vietnam National University</i>
+  * Researched on Text Mining and NLP: question answering, pos-tagging, name entity recognition, text summarization
+  * Assisted undergraduate students to study CS courses: Data Structure & Algorithms, SQL, Java
 
 ### Skills
 * Computer Science
@@ -43,7 +46,7 @@ redirect_from:
   * Message Queue: Kafka, RabbitMQ, ZeroMQ
 * Data Science
   * Techniques: Machine Learning, Descriptive Statistics, Financial Data Analytics, Trading Strategy
-  * Toolset: pandas, numpy, scikit-learn, keras, tensorflow, Spark mllib
+  * Toolbox: pandas, numpy, scikit-learn, keras, tensorflow, Spark mllib
 
 ### Publications
   <ul>{% for post in site.publications %}

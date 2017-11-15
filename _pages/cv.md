@@ -24,7 +24,7 @@ redirect_from:
   
 * May 2013 - Aug 2015: <b>Data Engineer</b> - <i>FTP Software - DIRECTV - AT&T</i>
   * <b>Cloud Recommendation Production</b>, <i>onsite in USA</i>
-    * Architected BigData web services of Cloud Recommendation engine that provided a real-time query API based on Spring MVC, HDFS and HBase
+    * Developed RESTful Web Services to provide data analytics results to end-user interface using Spring MVC, HDFS and HBase
     * Implemented Data quality assessment piplines: univariate/bivariate profiling, monthly data comparision using Zoomdata, Python viz (matplotlib, seaborn, plotly)
 
   * <b>Cloud Recommendation POC</b>, <i>offshore in Vietnam</i>

@@ -15,7 +15,7 @@ redirect_from:
 ### Work experience
 * June 2018 - Present: <b>Senior Data Engineer</b> - <i>AXA REV (Research, Engineering, Vision)</i>
   * Architect production machine learning pipelines for AXA partnership projects with two biggest Banks in APAC (Bank Mandiri Indonesia and Metro Bank Philippines)
-  * Conducting multiple data engineering trainings for AXA entities in APAC - Krungthai AXA Life, AXA Mandiri, AXA Philippines
+  * Conducting multiple data engineering trainings for AXA entities - Krungthai AXA, AXA Mandiri, AXA Philippines
   * Developing a proof of concept IoT platform on AWS for AXA Marine IoT project
 
 * June 2016 - May 2018: <b>Data Engineer</b> - <i>AXA Data Innovation Lab</i>

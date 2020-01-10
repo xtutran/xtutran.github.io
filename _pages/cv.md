@@ -13,7 +13,11 @@ redirect_from:
 * B.S. in Vietnam, Vietnam National University, 2011
 
 ### Work experience
-* Jul 2016 - Present: <b>Data Engineer</b> - <i>AXA Data Innovation Lab</i>
+* June 2018 - Present: <b>Senior Data Engineer</b> - <i>AXA REV (Research, Engineering, Vision)</i>
+  * Data management: cleansing, managing, data-warehousing based-on Hadoop ecosystem 
+  * Data modelling: data exploration, feature engineering
+  * Industrialize production workflow and data pipelines on E2E environment
+* June 2016 - May 2018: <b>Data Engineer</b> - <i>AXA Data Innovation Lab</i>
   * Data management: cleansing, managing, data-warehousing based-on Hadoop ecosystem 
   * Data modelling: data exploration, feature engineering
   * Industrialize production workflow and data pipelines on E2E environment

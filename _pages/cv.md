@@ -14,13 +14,14 @@ redirect_from:
 
 ### Work experience
 * June 2018 - Present: <b>Senior Data Engineer</b> - <i>AXA REV (Research, Engineering, Vision)</i>
-  * Data management: cleansing, managing, data-warehousing based-on Hadoop ecosystem 
-  * Data modelling: data exploration, feature engineering
-  * Industrialize production workflow and data pipelines on E2E environment
+  * Architect production machine learning pipelines for AXA partnership projects with two biggest Banks in APAC (Bank Mandiri Indonesia and Metro Bank Philippines)
+  * Conducting multiple data engineering trainings for AXA entities in APAC - Krungthai AXA Life, AXA Mandiri, AXA Philippines
+  * Developing a proof of concept IoT platform on AWS for AXA Marine IoT project
+
 * June 2016 - May 2018: <b>Data Engineer</b> - <i>AXA Data Innovation Lab</i>
   * Data management: cleansing, managing, data-warehousing based-on Hadoop ecosystem 
   * Data modelling: data exploration, feature engineering
-  * Industrialize production workflow and data pipelines on E2E environment
+  * Industrialize production workflow and machine leanring pipelines on end-to-end environment 
 
 * Aug 2015 - Jul 2016: <b>Research Engineer</b> - <i>Singapore University of Technology and Design (SUTD)</i>
   * Analyzing and detecting anomaly event in log of  Power Plant system: association rules mining, multivariate analysis

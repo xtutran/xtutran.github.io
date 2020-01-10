@@ -32,7 +32,7 @@ redirect_from:
     * Data preparation: developed and optimized large-scale ETLs, mostly are Java MapReduce and Hive jobs
 
 * Sep 2012 - March 2013: <b>Research Assistant Internship</b> - <i>Singapore Management University</i>
-  * Worked under supervision of Ass. Prof. Jing Jiang on unsupervised information extraction topic
+  * Worked under supervision of Ass. Prof. Jing Jiang on unsupervised information extraction
   * Studied and implemented some unsupervised machine learning algorithms for text clustering: Gibb sampling (MCMC), Naive Bayesian mixture model, Gaussian mixture model
 
 * Dec 2009 - Sep 2012: <b>Research Teaching Assistant</b> - <i>Vietnam National University</i>

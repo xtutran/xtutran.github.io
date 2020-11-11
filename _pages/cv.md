@@ -16,10 +16,11 @@ redirect_from:
 * July 2020 - present: <b>Lead Data Engineer</b> - <i>AXA REV (Research, Engineering, Vision)</i>
   * Managing a team of 2 engineers - provide guidance & reinforce engineering best practices 
   * Leading the team to tackle different business use-cases accross AXA entities in APAC: fraud/claim analytics solution, marine/ship position tracking, IoT - smart insurance & pricing
+  
 * June 2018 - June 2020: <b>Senior Data Engineer</b> - <i>AXA REV (Research, Engineering, Vision)</i>
+  * Developing a proof of concept AWS IoT platform for AXA IoT initiatives
   * Architect production machine learning pipelines for AXA partnership projects with two biggest Banks in APAC (Bank Mandiri Indonesia and Metro Bank Philippines)
   * Conducting multiple data engineering trainings for AXA entities - Krungthai AXA, AXA Mandiri, AXA Philippines
-  * Developing a proof of concept IoT platform on AWS for AXA Marine IoT project
 
 * June 2016 - May 2018: <b>Data Engineer</b> - <i>AXA Data Innovation Lab</i>
   * Data management: cleansing, managing, data-warehousing based-on Hadoop ecosystem 
@@ -50,6 +51,7 @@ redirect_from:
 ### Skills
 * Computer Science
   * Programming: Python, Java, Scala, Unix Shell
+  * Cloud Computing: AWS, Google GCP
   * Distributed System: Hadoop ecosystem (HDFS, Hive, Spark, Pig)
   * Message Queue: Kafka, RabbitMQ, ZeroMQ
 * Data Science

@@ -13,8 +13,8 @@ redirect_from:
 * B.S. in Vietnam, Vietnam National University, 2011
 
 ### Work experience
-* July 2020 - present: <b>Lead Data Engineer</b> - <i>AXA REV (Research, Engineering, Vision)</i>
-  * Managing a team of 2 engineers - provide guidance & reinforce engineering best practices 
+* July 2020 - present: <b>Technical Lead - Data Engineer</b> - <i>AXA REV (Research, Engineering, Vision)</i>
+  * Managing a team of engineers - provide guidance & reinforce engineering best practices 
   * Leading the team to tackle different critical business use-cases across AXA entities in APAC: fraud/claim analytics solution, marine/ship position tracking, IoT - smart insurance & pricing
 
 * June 2018 - June 2020: <b>Senior Data Engineer</b> - <i>AXA REV (Research, Engineering, Vision)</i>

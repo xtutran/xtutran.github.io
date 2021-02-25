@@ -34,10 +34,10 @@ redirect_from:
 * May 2013 - Aug 2015: <b>Data Engineer</b> - <i>FTP Software - DIRECTV - AT&T</i>
   * <b>Cloud Recommendation Production</b>, <i>onsite in USA</i>
     * Developed RESTful Web Services to provide data analytics results to end-user interface using Spring MVC, HDFS and HBase
-    * Implemented Data quality assessment piplines: univariate/bivariate profiling, monthly data comparision using Zoomdata, Python viz (matplotlib, seaborn, plotly)
+    * Implemented Data quality assessment pipelines: univariate/bivariate profiling, monthly data comparision using Zoomdata, Python viz (matplotlib, seaborn, plotly)
 
   * <b>Cloud Recommendation POC</b>, <i>offshore in Vietnam</i>
-    * Experimented feasible recommendation algorithms which will be deployed on AWS and Hadoop ecosytem: content-based filtering and collaborative filtering
+    * Experimented feasible recommendation algorithms which will be deployed on AWS and Hadoop ecosystem: content-based filtering and collaborative filtering
     * Data preparation: developed and optimized large-scale ETLs, mostly are Java MapReduce and Hive jobs
 
 * Sep 2012 - March 2013: <b>Research Assistant Internship</b> - <i>Singapore Management University</i>

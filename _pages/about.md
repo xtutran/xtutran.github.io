@@ -10,6 +10,6 @@ redirect_from:
 
 
 
-I have 8+ years of experience in analysing different types of data such as healthcare, insurance, sensors and stock/forex trading. 
+I have 10+ years of experience in analysing different types of data: healthcare, insurance, sensors, geospatial data and stock/forex trading with a solid backgroud in both of Computer Science and Data Science.
 
-My working interest mainly focus on Data Engineering, Machine Learning and Big Data Analytic. I am highly proficient in computer programming along with my favourite stack: Java, Python, Scala, Hadoop HDFS, HBase, Hive, Pig, Impala, Spark.
+My working interest mainly focus on Data Engineering, Machine Learning and Big Data Analytic together with my excellent computer programming skillset: Java, Python, Scala, Bash Shell and extensive knowlege of cloud computing services: AWS, GCP, Azure. 

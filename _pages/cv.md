@@ -13,12 +13,16 @@ redirect_from:
 * B.S. in Vietnam, Vietnam National University, 2011
 
 ### Work experience
-* July 2020 - present: <b>Technical Lead - Data Engineer</b> - <i>AXA REV (Research, Engineering, Vision)</i>
-  * Managing a team of engineers - provide guidance & reinforce engineering best practices 
-  * Leading the team to tackle different critical business use-cases across AXA entities in APAC: fraud/claim analytics solution, marine/ship position tracking, IoT - smart insurance & pricing
+* April 2020 - present: <b>Data Engineering Expert | Tech Lead</b> - <i>AXA Group Emerging Technologies and Data (GETD)</i>
+  * Mainly focused on analysing Vehicle / Marine Telematics data to identify important risk factors which impacts claim/loss experience
 
-* June 2018 - June 2020: <b>Senior Data Engineer</b> - <i>AXA REV (Research, Engineering, Vision)</i>
-  * Developing a proof of concept AWS IoT platform for AXA IoT initiatives
+  * Tech lead - person in charge to architect & develop the very first prototype of near real-time monitoring system which tracks GPS location of thousands vessels/ships insured by AXA XL - Marine Hull insurance. The prototype also send real-time alerts if any vessels gets close to bad weather condition or precautionary areas. This prototype has been running now in production environment and fully managed entire AXA XL portfolio.
+
+  * Tech lead - person in charge to architect & develop a real-time IoT data pipeline which collect/decode sensor's data. This is scalable distributed pipeline fully based on AWS Serverless computing and Sigfox technology.
+
+  * Data Engineering - contribute to core data pipeline of Fraud claim analytics solution which has been used widely across multiple AXA entities (Italy, Belgium, UK, Hong Kong ...)
+
+* June 2018 - April 2020: <b>Senior Data Engineer</b> - <i>AXA REV (Research, Engineering, Vision)</i>
   * Architect production machine learning pipelines for AXA partnership projects with two biggest Banks in APAC (Bank Mandiri Indonesia and Metro Bank Philippines)
   * Conducting multiple data engineering trainings for AXA entities - Krungthai AXA, AXA Mandiri, AXA Philippines
 

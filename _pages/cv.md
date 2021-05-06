@@ -13,7 +13,7 @@ redirect_from:
 * B.S. in Vietnam, Vietnam National University, 2011
 
 ### Work experience
-* April 2020 - present: <b>Data Engineering Expert | Tech Lead</b> - <i>AXA Group Emerging Technologies and Data (GETD)</i>
+* May 2020 - present: <b>Data Engineering Expert | Tech Lead</b> - <i>AXA Group Emerging Technologies and Data (GETD)</i>
   * Mainly focused on analysing Vehicle / Marine Telematics data to identify important risk factors which impacts claim/loss experience
   * Tech lead - person in charge to architect & develop the very first prototype of near real-time monitoring system which tracks GPS location of thousands vessels/ships insured by AXA XL - Marine Hull insurance. The prototype also send real-time alerts if any vessels gets close to bad weather condition or precautionary areas. This prototype has been running now in production environment and fully managed entire AXA XL portfolio.
   * Tech lead - person in charge to architect & develop a real-time IoT data pipeline which collect/decode sensor's data. This is scalable distributed pipeline fully based on AWS Serverless computing and Sigfox technology.

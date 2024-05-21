@@ -9,6 +9,10 @@ redirect_from:
 ---
 
 
-Data Engineering Leader in an International corporation (MNC), I’m holding a strong technical leadership role throughout the company’s data driven journey. A solid experienced executive with a proven track record of working in multi-cultural environment and leading team of experts from USA, Vietnam, Singapore & Thailand. A Data enthusiast and 12+ years programming addict together with highly proficient skillset in cloud architectures, emerging technologies and software development life-circle on the domains of Big Data engineering, AI and Machine Learning. I has been helping the organisation to ramp-up the team of high performance talents, reshape the Data Engineering culture and build-up a scalable Data Analytic platform.
+• A seasoned <b>Data Professional</b> in an International corporation (MNC ) with over a decade of practical experience on Data Engineering space, currently holding a strong technical leadership role throughout the company’s data driven journey. 
 
-My working interest mainly focus on Data Engineering, AI, Machine Learning and Big Data Analytic together with my excellent computer programming skillset: Java, Python, Scala, Bash Shell and extensive knowlege of cloud computing services: AWS, GCP, Azure. 
+• A solid experienced executive with a proven track record of working in multi-cultural environment and leading team of experts from <b>USA, Vietnam, Singapore & Thailand</b>. 
+
+• A Data enthusiast and <b>12+</b> years programming addict together with highly proficient skillset in cloud architectures, emerging technologies and software development life-circle on the domains of Big Data engineering, AI and Machine Learning.
+
+• Has been helping the organisation to ramp up the team of high performance talents, reshape the Data Engineering culture and build a scalable Data Analytic platform

@@ -13,6 +13,6 @@ redirect_from:
 
 • A solid experienced executive with a proven track record of working in multi-cultural environment and leading team of experts from <b>USA, Vietnam, Singapore & Thailand</b>. 
 
-• A Data enthusiast and <b>12+</b> years programming addict together with highly proficient skillset in cloud architectures, emerging technologies and software development life-circle on the domains of Big Data engineering, AI and Machine Learning.
+• A Data enthusiast and <b>12+</b> years programming addict together with highly proficient skillset in cloud architectures, emerging technologies and software development on the domains of Big Data engineering, AI and Machine Learning.
 
 • Has been helping the organisation to ramp up the team of high performance talents, reshape the Data Engineering culture and build a scalable Data Analytic platform

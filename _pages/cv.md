@@ -13,17 +13,25 @@ redirect_from:
 * B.S. in Vietnam, Vietnam National University, 2011
 
 ### Work experience
-* May 2020 - present: <b>Data Engineering Expert | Tech Lead</b> - <i>AXA Group Emerging Technologies and Data (GETD)</i>
+
+* Apr 2023 - present: <b>Technical Lead - Data Platform</b> - <i>Terrascope Pte. Ltd.</i>
+  * Leading a team of multinational engineers (Singapore & India) to build up the very first Data Analytics Infrastructure for the Enterprise SaaS decarbonisation platform
+  * Main author & key contributor to one of Generative AI initiatives - building up a Document Q&A system powered by GPT-4: key enabler for sales team to engage with end-customers smoother
+
+* Mar 2022 - Mar 2023: <b>Technical Lead - Data Engineering</b> - <i>The Chope Group Pte. Ltd.</i>
+  * Led a team of engineers to drive strategic design for the next generation of Data Platform for Chope: managed business stakeholder communications, reinforced engineering best practices, saved 70% of monthly cloud-cost and improved data maturity across the organization
+
+* May 2020 - Feb 2022: <b>Data Engineering Expert | Tech Lead</b> - <i>AXA Group Emerging Technologies and Data (GETD)</i>
   * Mainly focused on analysing Vehicle / Marine Telematics data to identify important risk factors which impacts claim/loss experience
   * Tech Lead - person in charge to architect & develop the very first prototype of near real-time monitoring system which tracks GPS location of thousands vessels/ships insured by AXA XL - Marine Hull insurance. The prototype also send real-time alerts if any vessels gets close to bad weather condition or precautionary areas. This prototype has been running now in production environment and fully managed entire AXA XL portfolio.
   * Tech Lead - person in charge to architect & develop a real-time IoT data pipeline which collect/decode sensor's data. This is scalable distributed pipeline fully based on AWS Serverless computing and Sigfox technology.
   * Data Engineering - contribute to core data pipeline of Fraud claim analytics solution which has been used widely across multiple AXA entities (Italy, Belgium, UK, Hong Kong ...)
 
-* June 2018 - April 2020: <b>Senior Data Engineer</b> - <i>AXA REV (Research, Engineering, Vision)</i>
+* Jun 2018 - Apr 2020: <b>Senior Data Engineer</b> - <i>AXA REV (Research, Engineering, Vision)</i>
   * Architect production machine learning pipelines for AXA partnership projects with two biggest Banks in APAC (Bank Mandiri Indonesia and Metro Bank Philippines)
   * Conducting multiple data engineering trainings for AXA entities - Krungthai AXA, AXA Mandiri, AXA Philippines
 
-* June 2016 - May 2018: <b>Data Engineer</b> - <i>AXA Data Innovation Lab</i>
+* Jun 2016 - May 2018: <b>Data Engineer</b> - <i>AXA Data Innovation Lab</i>
   * Data management: cleansing, managing, data-warehousing based-on Hadoop ecosystem 
   * Data modelling: data exploration, feature engineering
   * Industrialize production workflow and machine leanring pipelines on end-to-end environment 
@@ -41,7 +49,7 @@ redirect_from:
     * Experimented feasible recommendation algorithms which will be deployed on AWS and Hadoop ecosystem: content-based filtering and collaborative filtering
     * Data preparation: developed and optimized large-scale ETLs, mostly are Java MapReduce and Hive jobs
 
-* Sep 2012 - March 2013: <b>Research Assistant Internship</b> - <i>Singapore Management University</i>
+* Sep 2012 - Mar 2013: <b>Research Assistant Internship</b> - <i>Singapore Management University</i>
   * Worked under supervision of Ass. Prof. Jing Jiang on unsupervised information extraction
   * Studied and implemented some unsupervised machine learning algorithms for text clustering: Gibb sampling (MCMC), Naive Bayesian mixture model, Gaussian mixture model
 
@@ -52,12 +60,12 @@ redirect_from:
 ### Skills
 * Computer Science
   * Programming: Python, Java, Scala, Unix Shell
-  * Cloud Computing: AWS, Google GCP
+  * Cloud Computing: AWS, Google GCP, Azure
   * Distributed System: Hadoop ecosystem (HDFS, Hive, Spark, Pig)
   * Message Queue: Kafka, RabbitMQ, ZeroMQ
 * Data Science
   * Techniques: Machine Learning, Descriptive Statistics, Financial Data Analytics, Trading Strategy
-  * Toolbox: pandas, numpy, scikit-learn, keras, tensorflow, Spark mllib
+  * Toolbox: pandas, numpy, scikit-learn, keras, tensorflow, pytorch, Spark mllib
 
 ### Publications
   <ul>{% for post in site.publications %}

@@ -68,11 +68,11 @@ redirect_from:
   * Toolbox: pandas, numpy, scikit-learn, keras, tensorflow, pytorch, Spark mllib
 
 ### Publications
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ### Certifications
-  <ul>{% for post in site.certifications %}
+  <ul>{% for post in site.certifications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

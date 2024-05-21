@@ -4,5 +4,5 @@ collection: certifications
 date: 2010-05-27	
 venue: 'IBM'
 permalink: /certifications/uml
-link: 'https://drive.google.com/file/d/1xZD_WC_LG5fD0N0FLdJ-ipE5J9z_ZXgH/view?usp=sharing'
+paperurl: 'https://drive.google.com/file/d/1xZD_WC_LG5fD0N0FLdJ-ipE5J9z_ZXgH/view?usp=sharing'
 ---

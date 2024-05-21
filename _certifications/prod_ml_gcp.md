@@ -3,5 +3,5 @@ title: "Production Machine Learning Systems"
 collection: certifications
 date: 2021-11-21	
 venue: 'Google Cloud Training'
-permalink: 'https://www.coursera.org/account/accomplishments/verify/A66XLPCJ4N6D'
+link: 'https://www.coursera.org/account/accomplishments/verify/A66XLPCJ4N6D'
 ---
